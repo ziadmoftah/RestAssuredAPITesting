@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ded33e59-067b-40ba-bccc-b6e0734fecd6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoapRequest/add.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/GetAndPost.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/JSONSchemaValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/LocalAPITest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/PutPatchDelete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/SOAPRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/Test1.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2dJTMP4bQCCbzSthPWAqp1iCYHd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven.RESTAssuredAPI [clean].executor": "Run",
+    "Maven.RESTAssuredAPI [install].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.GetAndPost.testGet.executor": "Run",
+    "TestNG.GetAndPost.testPost.executor": "Run",
+    "TestNG.JSONSchemaValidator.validateSchema.executor": "Run",
+    "TestNG.LocalAPITest.deleteUser.executor": "Run",
+    "TestNG.LocalAPITest.get.executor": "Run",
+    "TestNG.LocalAPITest.getAllUsers.executor": "Run",
+    "TestNG.LocalAPITest.patchUserDetails.executor": "Run",
+    "TestNG.LocalAPITest.postNewUser.executor": "Run",
+    "TestNG.LocalAPITest.updateUserDetails.executor": "Run",
+    "TestNG.PutPatchDelete.executor": "Run",
+    "TestNG.PutPatchDelete.testDelete.executor": "Run",
+    "TestNG.PutPatchDelete.testPatch.executor": "Run",
+    "TestNG.PutPatchDelete.testPut.executor": "Run",
+    "TestNG.SOAPRequest.validateSoapXML.executor": "Run",
+    "TestNG.Test.executor": "Run",
+    "TestNG.Test1.executor": "Run",
+    "TestNG.Test1.getListOfBooks.executor": "Run",
+    "TestNG.Test1.getUsers.executor": "Run",
+    "TestNG.Test1.t2.executor": "Run",
+    "TestNG.Test1.t3.executor": "Run",
+    "TestNG.test1.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ziad\IdeaProjects\RESTAssuredAPI\SoapRequest" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.SOAPRequest.validateSoapXML">
+    <configuration name="JSONSchemaValidator.validateSchema" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RESTAssuredAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.JSONSchemaValidator" />
+      <option name="METHOD_NAME" value="validateSchema" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LocalAPITest.deleteUser" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RESTAssuredAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.LocalAPITest" />
+      <option name="METHOD_NAME" value="deleteUser" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LocalAPITest.patchUserDetails" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RESTAssuredAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.LocalAPITest" />
+      <option name="METHOD_NAME" value="patchUserDetails" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LocalAPITest.updateUserDetails" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RESTAssuredAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.LocalAPITest" />
+      <option name="METHOD_NAME" value="updateUserDetails" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SOAPRequest.validateSoapXML" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RESTAssuredAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.SOAPRequest" />
+      <option name="METHOD_NAME" value="validateSoapXML" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.SOAPRequest.validateSoapXML" />
+        <item itemvalue="TestNG.JSONSchemaValidator.validateSchema" />
+        <item itemvalue="TestNG.LocalAPITest.deleteUser" />
+        <item itemvalue="TestNG.LocalAPITest.patchUserDetails" />
+        <item itemvalue="TestNG.LocalAPITest.updateUserDetails" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ded33e59-067b-40ba-bccc-b6e0734fecd6" name="Changes" comment="" />
+      <created>1709725134508</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709725134508</updated>
+    </task>
+    <servers />
+  </component>
+</project>
